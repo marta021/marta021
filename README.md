@@ -22,16 +22,8 @@ Hi! My name is Marta Rincón Otero (she/her), I'm a Computer and Software engine
 ## Skills 😄
 
 ### Technical
-* C++
-* Java
-* HTML
-* CSS
-* JavaScript
-* PHP
-* Python
-* MySQL
-* Flutter
-* Docker
+C++ ,   Java , HTML , CSS,  JavaScript,  PHP , Python,  MySQL,  Flutter , Docker
+
 
 ### Soft
 * **Creativity**
@@ -45,12 +37,12 @@ Hi! My name is Marta Rincón Otero (she/her), I'm a Computer and Software engine
 * Scrum
 
 ## Projects 💬
-### Main ones
+### Main Ones
 * [Kartopia](https://github.com/marta021/practica2_SG) 
 * [Wiki Cientific@s](https://github.com/marta021/practicas_SIBW)
 * [AI's projects](https://github.com/marta021/practica3)
 
-### Projects I Took Part In
+### Some Projects I Took Part In
 * [Algorithm](https://github.com/teresitarg22/Algoritmica-UGR)
 * [AgendAPP](https://github.com/PepeProgrammer/MDA_DGP)
 * [Agents](https://github.com/teresitarg22/Desarrollo-Agentes-UGR)
