@@ -49,5 +49,5 @@ C++ ,   Java , HTML , CSS,  JavaScript,  PHP , Python,  MySQL,  Flutter , Docker
 
 ## Contact 📫
 * Email: marta.rincon21@gmail.com
-* LinkedIn: [click here](www.linkedin.com/in/marta-rincón-otero-69600a330)
+* LinkedIn: [click here](https://www.linkedin.com/in/marta-rinc%C3%B3n-otero-69600a330)
 
