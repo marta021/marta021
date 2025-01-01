@@ -21,7 +21,7 @@ Hi! My name is Marta Rincón Otero (she/her), I'm a Computer and Software engine
 
 ## Skills 😄
 
-### Technical
+### Hard
 C++ ,   Java , HTML , CSS,  JavaScript,  PHP , Python,  MySQL,  Flutter , Docker
 
 
