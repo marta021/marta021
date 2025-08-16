@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me 🌱
 
-Hi! My name is Marta Rincón Otero (she/her), I'm a Computer and Software engineering student at University of Granada, Spain. I'm currently on my last year. 
+Hi! My name is Marta Rincón Otero (she/her), I'm a Computer and Software engineer based in Granada.
 
 ## Skills 😄
 
@@ -41,6 +41,7 @@ C++ , c,  Java , HTML , CSS,  JavaScript,  PHP , Python,  MySQL,  Flutter , Dock
 * [Kartopia](https://github.com/marta021/practica2_SG) 
 * [Wiki Cientific@s](https://github.com/marta021/practicas_SIBW)
 * [AI's projects](https://github.com/marta021/practica3)
+* [My final project: Handy: Sign language app](https://github.com/marta021/tfg_app#)
 
 ### Some Projects I Took Part In
 * [Algorithm](https://github.com/teresitarg22/Algoritmica-UGR)
